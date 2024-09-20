@@ -2,6 +2,7 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "Hugo Ficurinia"
+baseURL = "https://mirzakoochakkhan.github.io/uwss4p/"
 license = "AGPL3"
 licenselink = "https://gitlab.com/gabmus/hugo-ficurinia/-/blob/master/LICENSE"
 description = "A prickly blog theme for Hugo"
